@@ -55,6 +55,11 @@ MarkDown-Renderer/
 
 http://localhost:8080/swagger-ui/index.html
 
+## Here is the project URL
+
+https://roadmap.sh/projects/markdown-note-taking-app
+
+
 ### 🔧 Setup and Run
 
 ```bash
