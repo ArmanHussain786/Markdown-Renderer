@@ -51,6 +51,10 @@ MarkDown-Renderer/
 - Java 17 or higher
 - Maven
 
+## API documentation available at:
+
+http://localhost:8080/swagger-ui/index.html
+
 ### 🔧 Setup and Run
 
 ```bash
